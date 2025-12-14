@@ -10,5 +10,4 @@ Topics include:
 - Data management (SQL)
 - Python, R, and C++ programming
 
-Note: Some coursework repositories are private due to course policies. 
-
+Note: Individual assignment repositories are private or organization-owned due to course policies.
