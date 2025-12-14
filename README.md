@@ -2,7 +2,7 @@
 
 This repository contains selected coursework and assignments from
 statistics, machine learning, and computer science courses at
-University of California, Irvine.
+University of California, Irvine. No graded assignments or solution code are included.
 
 Topics include:
 - Statistical modeling
@@ -10,4 +10,5 @@ Topics include:
 - Data management (SQL)
 - Python, R, and C++ programming
 
-Note: Some coursework repositories are private due to course policies.
+Note: Some coursework repositories are private due to course policies. 
+
